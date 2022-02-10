@@ -3,7 +3,6 @@
       how nodejs and others.
 - 🌱 I’m currently learning javascript (ES6), reactjs and nodejs(express.js).
 - 💞️ I should like to collaborate on proyects or activities relationship with web and movil applications.
-- 📫 How to reach me ... Currently working on it
 
 <!---
 DavidDemetrio/DavidDemetrio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
